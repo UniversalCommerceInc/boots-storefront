@@ -1,0 +1,4 @@
+.paypal-button-container .paypal-button {
+  border: none !important;
+  box-shadow: none !important; /* Removes the default PayPal button shadow */
+}
